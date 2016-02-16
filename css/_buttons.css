@@ -1,0 +1,22 @@
+.button-container {
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 8px;
+}
+.button {
+  border: 2px solid #fff;
+  border-radius: 35px;
+  margin-right: 8px;
+  transition: all 1s;
+}
+.button:hover {
+  border-color: #808080;
+}
+a.button {
+  display: inline-block;
+  padding: 3px 14px;
+  font-family: 'Open Sans', Arial;
+  font-size: 20px;
+  color: #fff;
+  text-decoration: none;
+}
