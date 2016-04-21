@@ -8,7 +8,7 @@ tags: [Redes Neurais]
 Você já ouviu falar sobre **Redes Neurais Artificiais** ? tem alguma idéia do que se trata ? não ? vamos lá, você está no lugar certo então.
 
 #### Oque é uma Rede Neural Artificial ?
-Uma rede neural é nada mais que técnicas computacionais para adquirir conhecimentos através de experiências, seja essa experiência de qualquer forma que vier.
+Uma rede neural artificial é nada mais que técnicas computacionais para adquirir conhecimentos através de experiências, seja essa experiência de qualquer forma que vier.
 
 ![Estrutura do Neurônio](../images/neuronio-structure.png)
 
