@@ -1,13 +1,13 @@
 ---
-title:  "Introdução as Redes Neurais"
+title:  "Introdução as Redes Neurais Artificiais"
 date:   2016-04-21 10:07:23
 categories: [Redes Neurais]
 tags: [Redes Neurais]
 ---
 
-Você já ouviu falar sobre **Redes Neurais** ? tem alguma idéia do que se trata ? não ? vamos lá, você está no lugar certo então.
+Você já ouviu falar sobre **Redes Neurais Artificiais** ? tem alguma idéia do que se trata ? não ? vamos lá, você está no lugar certo então.
 
-#### Oque é uma Rede Neural ?
+#### Oque é uma Rede Neural Artificial ?
 Uma rede neural é nada mais que técnicas computacionais para adquirir conhecimentos através de experiências, seja essa experiência de qualquer forma que vier.
 
 ![Estrutura do Neurônio](../images/neuronio-structure.png)
